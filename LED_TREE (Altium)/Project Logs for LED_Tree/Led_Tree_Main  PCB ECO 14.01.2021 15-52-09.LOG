@@ -1,0 +1,222 @@
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X6
+Change Component Designator: OldDesignator=X6 NewDesignator=X7
+Change Component Designator: OldDesignator=X7 NewDesignator=X9
+Change Component Designator: OldDesignator=X8 NewDesignator=X10
+Change Component Designator: OldDesignator=X9 NewDesignator=X12
+Change Component Designator: OldDesignator=X10 NewDesignator=X13
+Change Component Designator: OldDesignator=X11 NewDesignator=X14
+Change Component Designator: OldDesignator=X12 NewDesignator=X15
+Change Component Designator: OldDesignator=X13 NewDesignator=X16
+Change Component Designator: OldDesignator=X14 NewDesignator=X17
+Change Component Designator: OldDesignator=X15 NewDesignator=X18
+Change Component Designator: OldDesignator=X16 NewDesignator=X20
+Change Component Designator: OldDesignator=X17 NewDesignator=X21
+Change Component Designator: OldDesignator=X18 NewDesignator=X22
+Change Component Designator: OldDesignator=X19 NewDesignator=X23
+Change Component Designator: OldDesignator=X20 NewDesignator=X24
+Change Component Designator: OldDesignator=X21 NewDesignator=X26
+Change Component Designator: OldDesignator=X22 NewDesignator=X27
+Change Component Designator: OldDesignator=X23 NewDesignator=X28
+Change Component Designator: OldDesignator=X24 NewDesignator=X29
+Change Component Designator: OldDesignator=X25 NewDesignator=X30
+Change Component Designator: OldDesignator=X26 NewDesignator=X31
+Change Component Designator: OldDesignator=X27 NewDesignator=X32
+Change Component Designator: OldDesignator=X28 NewDesignator=X34
+Change Component Designator: OldDesignator=X29 NewDesignator=X35
+Change Component Designator: OldDesignator=X30 NewDesignator=X36
+Added Component: Designator=X2(CON: PLS-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-8-ds1021-1-8sf112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "8pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 8pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X8(CON: PLS-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-8-ds1021-1-8sf112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "8pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 8pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X11(CON: PBS-16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "16pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 16pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X19(CON: PBS-16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "16pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 16pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X25(CON: PBS-16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "16pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 16pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X33(CON: PBS-16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "16pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 16pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-1
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-2
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-3
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-4
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-5
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-6
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-7
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-8
+Added Pin To Net: NetName=GND Pin=X8-1
+Added Pin To Net: NetName=GND Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X8-3
+Added Pin To Net: NetName=GND Pin=X8-4
+Added Pin To Net: NetName=GND Pin=X8-5
+Added Pin To Net: NetName=GND Pin=X8-6
+Added Pin To Net: NetName=GND Pin=X8-7
+Added Pin To Net: NetName=GND Pin=X8-8
+Added Pin To Net: NetName=NetC1_1 Pin=X11-1
+Added Pin To Net: NetName=NetC1_1 Pin=X11-2
+Added Pin To Net: NetName=NetC1_1 Pin=X11-3
+Added Pin To Net: NetName=NetC1_1 Pin=X11-4
+Added Pin To Net: NetName=NetC1_1 Pin=X11-5
+Added Pin To Net: NetName=NetC1_1 Pin=X11-6
+Added Pin To Net: NetName=NetC1_1 Pin=X11-7
+Added Pin To Net: NetName=NetC1_1 Pin=X11-8
+Added Pin To Net: NetName=NetC1_1 Pin=X11-9
+Added Pin To Net: NetName=NetC1_1 Pin=X11-10
+Added Pin To Net: NetName=NetC1_1 Pin=X11-11
+Added Pin To Net: NetName=NetC1_1 Pin=X11-12
+Added Pin To Net: NetName=NetC1_1 Pin=X11-13
+Added Pin To Net: NetName=NetC1_1 Pin=X11-14
+Added Pin To Net: NetName=NetC1_1 Pin=X11-15
+Added Pin To Net: NetName=NetC1_1 Pin=X11-16
+Added Pin To Net: NetName=NetC1_1 Pin=X19-1
+Added Pin To Net: NetName=NetC1_1 Pin=X19-2
+Added Pin To Net: NetName=NetC1_1 Pin=X19-3
+Added Pin To Net: NetName=NetC1_1 Pin=X19-4
+Added Pin To Net: NetName=NetC1_1 Pin=X19-5
+Added Pin To Net: NetName=NetC1_1 Pin=X19-6
+Added Pin To Net: NetName=NetC1_1 Pin=X19-7
+Added Pin To Net: NetName=NetC1_1 Pin=X19-8
+Added Pin To Net: NetName=NetC1_1 Pin=X19-9
+Added Pin To Net: NetName=NetC1_1 Pin=X19-10
+Added Pin To Net: NetName=NetC1_1 Pin=X19-11
+Added Pin To Net: NetName=NetC1_1 Pin=X19-12
+Added Pin To Net: NetName=NetC1_1 Pin=X19-13
+Added Pin To Net: NetName=NetC1_1 Pin=X19-14
+Added Pin To Net: NetName=NetC1_1 Pin=X19-15
+Added Pin To Net: NetName=NetC1_1 Pin=X19-16
+Added Pin To Net: NetName=NetC1_1 Pin=X25-1
+Added Pin To Net: NetName=NetC1_1 Pin=X25-2
+Added Pin To Net: NetName=NetC1_1 Pin=X25-3
+Added Pin To Net: NetName=NetC1_1 Pin=X25-4
+Added Pin To Net: NetName=NetC1_1 Pin=X25-5
+Added Pin To Net: NetName=NetC1_1 Pin=X25-6
+Added Pin To Net: NetName=NetC1_1 Pin=X25-7
+Added Pin To Net: NetName=NetC1_1 Pin=X25-8
+Added Pin To Net: NetName=NetC1_1 Pin=X25-9
+Added Pin To Net: NetName=NetC1_1 Pin=X25-10
+Added Pin To Net: NetName=NetC1_1 Pin=X25-11
+Added Pin To Net: NetName=NetC1_1 Pin=X25-12
+Added Pin To Net: NetName=NetC1_1 Pin=X25-13
+Added Pin To Net: NetName=NetC1_1 Pin=X25-14
+Added Pin To Net: NetName=NetC1_1 Pin=X25-15
+Added Pin To Net: NetName=NetC1_1 Pin=X25-16
+Added Pin To Net: NetName=NetC1_1 Pin=X33-1
+Added Pin To Net: NetName=NetC1_1 Pin=X33-2
+Added Pin To Net: NetName=NetC1_1 Pin=X33-3
+Added Pin To Net: NetName=NetC1_1 Pin=X33-4
+Added Pin To Net: NetName=NetC1_1 Pin=X33-5
+Added Pin To Net: NetName=NetC1_1 Pin=X33-6
+Added Pin To Net: NetName=NetC1_1 Pin=X33-7
+Added Pin To Net: NetName=NetC1_1 Pin=X33-8
+Added Pin To Net: NetName=NetC1_1 Pin=X33-9
+Added Pin To Net: NetName=NetC1_1 Pin=X33-10
+Added Pin To Net: NetName=NetC1_1 Pin=X33-11
+Added Pin To Net: NetName=NetC1_1 Pin=X33-12
+Added Pin To Net: NetName=NetC1_1 Pin=X33-13
+Added Pin To Net: NetName=NetC1_1 Pin=X33-14
+Added Pin To Net: NetName=NetC1_1 Pin=X33-15
+Added Pin To Net: NetName=NetC1_1 Pin=X33-16
+Change Net Name : Old Net Name=NetX2_5 New Net Name=NetX3_5
+Change Net Name : Old Net Name=NetX2_6 New Net Name=NetX3_6
+Change Net Name : Old Net Name=NetX2_7 New Net Name=NetX3_7
+Change Net Name : Old Net Name=NetX2_8 New Net Name=NetX3_8
+Change Net Name : Old Net Name=NetX2_9 New Net Name=NetX3_9
+Change Net Name : Old Net Name=NetX2_10 New Net Name=NetX3_10
+Change Net Name : Old Net Name=NetX2_11 New Net Name=NetX3_11
+Change Net Name : Old Net Name=NetX2_12 New Net Name=NetX3_12
+Change Net Name : Old Net Name=NetX2_13 New Net Name=NetX3_13
+Change Net Name : Old Net Name=NetX2_14 New Net Name=NetX3_14
+Change Net Name : Old Net Name=NetX2_15 New Net Name=NetX3_15
+Change Net Name : Old Net Name=NetX2_16 New Net Name=NetX3_16
+Change Net Name : Old Net Name=NetX2_17 New Net Name=NetX3_17
+Change Net Name : Old Net Name=NetX2_18 New Net Name=NetX3_18
+Change Net Name : Old Net Name=NetX3_5 New Net Name=NetX4_5
+Change Net Name : Old Net Name=NetX3_6 New Net Name=NetX4_6
+Change Net Name : Old Net Name=NetX3_7 New Net Name=NetX4_7
+Change Net Name : Old Net Name=NetX3_8 New Net Name=NetX4_8
+Change Net Name : Old Net Name=NetX3_9 New Net Name=NetX4_9
+Change Net Name : Old Net Name=NetX3_10 New Net Name=NetX4_10
+Change Net Name : Old Net Name=NetX3_11 New Net Name=NetX4_11
+Change Net Name : Old Net Name=NetX3_12 New Net Name=NetX4_12
+Change Net Name : Old Net Name=NetX3_13 New Net Name=NetX4_13
+Change Net Name : Old Net Name=NetX3_14 New Net Name=NetX4_14
+Change Net Name : Old Net Name=NetX3_15 New Net Name=NetX4_15
+Change Net Name : Old Net Name=NetX3_16 New Net Name=NetX4_16
+Change Net Name : Old Net Name=NetX3_17 New Net Name=NetX4_17
+Change Net Name : Old Net Name=NetX3_18 New Net Name=NetX4_18
+Change Net Name : Old Net Name=NetX3_19 New Net Name=NetX4_19
+Change Net Name : Old Net Name=NetX3_20 New Net Name=NetX4_20
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C1 Tantalum capacitor, 10?F, 16V, ±10%, 3Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C2 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C3 Aluminium capacitor, 470?F, 10V, ±20%, , 14x10x5 mm, -40...+105°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C4 Aluminium capacitor, 470?F, 10V, ±20%, , 14x10x5 mm, -40...+105°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X31 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X32 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X33 Connector, 16pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X34 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X35 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X36 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Room: Name=Led_Tree_Main

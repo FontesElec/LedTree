@@ -1,0 +1,9 @@
+Added Component: Designator=D?(SOP64P600X163-24N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "SSOP24L-150-0.64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/MBI/MBI5050GP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Macroblock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "MBI5050GP"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 20pin, 2.54mm, 500VAC, 3A
+Added Room: Name=Led_Tree_Main

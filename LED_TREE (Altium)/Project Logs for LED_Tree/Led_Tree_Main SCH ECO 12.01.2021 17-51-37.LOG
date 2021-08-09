@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=X? Old Footprint=PCBComponent_1 New Footprint=CON: PBS-16
+Change Component Comment: Designator=X? Old Comment==ValueManufacturerPartNumber New Comment=Connector, 16pin, 2.54mm, 500VAC, 3A

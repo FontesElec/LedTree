@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Led_Tree_Main .PcbDoc   17.01.2021  22:35:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Led_Tree_Main .TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             79        PTH        800.97mm (31.53inch)
+T2      0.762mm (30mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T3      0.8mm (31mil)                                             Round             4         PTH        12.25mm (0.48inch)
+T4      1.02mm (40mil)                                            Round             40        PTH        160.02mm (6.30inch)
+T5      1.1mm (43mil)                                             Round             304       PTH        1277.35mm (50.29inch)
+T6      1.4mm (55mil)                                             Round             2         PTH        4.14mm (0.16inch)
+T7      3mm (118mil)                                              Round             4         PTH        245.20mm (9.65inch)
+T8      3.18mm (125mil)                                           Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              435
+
+Total Processing Time (hh:mm:ss) : 00:00:00

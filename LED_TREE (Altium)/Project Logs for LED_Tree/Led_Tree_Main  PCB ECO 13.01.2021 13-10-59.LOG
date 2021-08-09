@@ -1,0 +1,62 @@
+Added Component: Designator=X?(CON: PBS-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "8pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 8pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON: PBS-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pbs-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "8pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PBS-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 8pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component D? MBI5050GP
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 2pin, 4.14mm, 600VAC, 9.5A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 20pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 20pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Led_Tree_Main Member=Component X? Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Room: Name=Led_Tree_Main

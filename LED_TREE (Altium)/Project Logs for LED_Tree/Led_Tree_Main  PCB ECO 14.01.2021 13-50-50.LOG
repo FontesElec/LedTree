@@ -1,0 +1,475 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=X3-20
+Removed Pin From Net: NetName=NetC1_1 Pin=X4-3
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C10 NewDesignator=C14
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C16
+Change Component Designator: OldDesignator=C13 NewDesignator=C17
+Change Component Designator: OldDesignator=C14 NewDesignator=C18
+Change Component Designator: OldDesignator=C15 NewDesignator=C19
+Change Component Designator: OldDesignator=C16 NewDesignator=C20
+Change Component Designator: OldDesignator=C17 NewDesignator=C21
+Change Component Designator: OldDesignator=C18 NewDesignator=C22
+Change Component Designator: OldDesignator=C19 NewDesignator=C23
+Change Component Designator: OldDesignator=C20 NewDesignator=C24
+Change Component Designator: OldDesignator=C21 NewDesignator=C25
+Change Component Designator: OldDesignator=C22 NewDesignator=C26
+Change Component Designator: OldDesignator=C23 NewDesignator=C27
+Change Component Designator: OldDesignator=C24 NewDesignator=C28
+Change Component Designator: OldDesignator=X2 NewDesignator=X6
+Change Component Designator: OldDesignator=X3 NewDesignator=X2
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Change Component Designator: OldDesignator=X5 NewDesignator=X4
+Change Component Designator: OldDesignator=X6 NewDesignator=X5
+Change component parameters: Designator = "C5"; Footprint = "CAP: TANTAL-A"; UniqueID = "\AMOBAIDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAP: 0603"; UniqueID = "\VTJSEENP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAP: TANTAL-A"; UniqueID = "\TARLAWRL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "CAP: 0603"; UniqueID = "\IRNQWDAW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "CAP: TANTAL-A"; UniqueID = "\VIMCMAQR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "CAP: 0603"; UniqueID = "\KNEWCPXK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "CAP: TANTAL-A"; UniqueID = "\HVRLEYFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAP: 0603"; UniqueID = "\BVUCMLEA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAP: TANTAL-A"; UniqueID = "\TUJUOHPH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAP: 0603"; UniqueID = "\UOQNRBFP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "CAP: TANTAL-A"; UniqueID = "\EVVMXATT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "CAP: 0603"; UniqueID = "\FKLWKMWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "CAP: TANTAL-A"; UniqueID = "\NMCUYMHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "CAP: 0603"; UniqueID = "\FXIXUEHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "CAP: TANTAL-A"; UniqueID = "\OEYCEGBK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "CAP: 0603"; UniqueID = "\TXOTSWJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "CAP: TANTAL-A"; UniqueID = "\QVGNYPYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "CAP: 0603"; UniqueID = "\KLVDBKLO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "CAP: TANTAL-A"; UniqueID = "\PDPSWDET"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "CAP: 0603"; UniqueID = "\NHQMOLSB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "CAP: TANTAL-A"; UniqueID = "\QPBBKDTG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "CAP: 0603"; UniqueID = "\IVPMVCTT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CAP: TANTAL-A"; UniqueID = "\ESQVAHVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA105K035RNJ/478-1651-2-ND/563759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "7.5Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TAJA105K035RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "CAP: 0603"; UniqueID = "\XDIICJME"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71H103KA01D/490-1512-2-ND/587151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM188R71H103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP: TANTAL-A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/TAJA106K016RNJ/478-1655-1-ND/564687"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "3Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TAJA106K016RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 10?F, 16V, ±10%, 3Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics/GRM188R71C104KA01D/490-1532-2-ND/587060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0603, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: D6.3C2.5H11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "JRB1A471M02500630120000B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 470?F, 10V, ±20%, , 14x10x5 mm, -40...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: D6.3C2.5H11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "JRB1A471M02500630120000B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 470?F, 10V, ±20%, , 14x10x5 mm, -40...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CurrentDS"; Value = "-2.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateCharge"; Value = "7.7nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMV65XP215/949643"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InputCapacitor"; Value = "744pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "4.16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PMV65XP,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS"; Value = "58mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "MOSFET P-channel transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDS"; Value = "-20V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC1_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=VT1-1
+Added Pin To Net: NetName=NetC1_1 Pin=VT1-3
+Added Pin To Net: NetName=NetC1_1 Pin=X6-1
+Added Pin To Net: NetName=GND Pin=X6-2
+Change Net Name : Old Net Name=NetX3_5 New Net Name=NetX2_5
+Change Net Name : Old Net Name=NetX3_6 New Net Name=NetX2_6
+Change Net Name : Old Net Name=NetX3_7 New Net Name=NetX2_7
+Change Net Name : Old Net Name=NetX3_8 New Net Name=NetX2_8
+Change Net Name : Old Net Name=NetX3_9 New Net Name=NetX2_9
+Change Net Name : Old Net Name=NetX3_10 New Net Name=NetX2_10
+Change Net Name : Old Net Name=NetX3_11 New Net Name=NetX2_11
+Change Net Name : Old Net Name=NetX3_12 New Net Name=NetX2_12
+Change Net Name : Old Net Name=NetX3_13 New Net Name=NetX2_13
+Change Net Name : Old Net Name=NetX3_14 New Net Name=NetX2_14
+Change Net Name : Old Net Name=NetX3_15 New Net Name=NetX2_15
+Change Net Name : Old Net Name=NetX3_16 New Net Name=NetX2_16
+Change Net Name : Old Net Name=NetX3_17 New Net Name=NetX2_17
+Change Net Name : Old Net Name=NetX3_18 New Net Name=NetX2_18
+Change Net Name : Old Net Name=NetX4_5 New Net Name=NetX3_5
+Change Net Name : Old Net Name=NetX4_6 New Net Name=NetX3_6
+Change Net Name : Old Net Name=NetX4_7 New Net Name=NetX3_7
+Change Net Name : Old Net Name=NetX4_8 New Net Name=NetX3_8
+Change Net Name : Old Net Name=NetX4_9 New Net Name=NetX3_9
+Change Net Name : Old Net Name=NetX4_10 New Net Name=NetX3_10
+Change Net Name : Old Net Name=NetX4_11 New Net Name=NetX3_11
+Change Net Name : Old Net Name=NetX4_12 New Net Name=NetX3_12
+Change Net Name : Old Net Name=NetX4_13 New Net Name=NetX3_13
+Change Net Name : Old Net Name=NetX4_14 New Net Name=NetX3_14
+Change Net Name : Old Net Name=NetX4_15 New Net Name=NetX3_15
+Change Net Name : Old Net Name=NetX4_16 New Net Name=NetX3_16
+Change Net Name : Old Net Name=NetX4_17 New Net Name=NetX3_17
+Change Net Name : Old Net Name=NetX4_18 New Net Name=NetX3_18
+Change Net Name : Old Net Name=NetX4_19 New Net Name=NetX3_19
+Change Net Name : Old Net Name=NetX4_20 New Net Name=NetX3_20
+Added Pin To Net: NetName=NetVT1_2 Pin=VT1-2
+Added Pin To Net: NetName=NetVT1_2 Pin=X2-20
+Added Pin To Net: NetName=NetVT1_2 Pin=X3-3
+Added Net: Name=NetVT1_2
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C25 Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C26 Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C27 Tantalum capacitor, 1?F, 35V, ±10%, 7.5Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component C28 Ceramic capacitor, 0.01?F, X7R, ±10%, 50V, 0603, -55...+125°C
+Added Member To Class: ClassName=Led_Tree_Main Member=Component VT1 MOSFET P-channel transistor, -20V, -2.8A, 7.7nC, 4.16W, 58mOhm, 744pF, SOT23, -55...+150°C
+Added Room: Name=Led_Tree_Main
