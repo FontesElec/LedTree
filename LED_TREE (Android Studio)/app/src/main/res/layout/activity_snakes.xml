@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:screenOrientation="portrait"
+    tools:context=".Snakes">
+
+    <Button
+        android:id="@+id/btnBack"
+        android:background="#99C847"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:layout_alignParentRight="true"
+        android:text="Назад"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/txtSnakes"
+        android:background="#99C847"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:layout_toLeftOf="@id/btnBack"
+        android:text="Бегущий огонёк"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+
+    <RadioGroup
+        android:id="@+id/RadBtnSnakes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtSnakes"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        android:layout_margin="0dp">
+
+        <RadioButton
+            android:id="@+id/rbOne"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:textColor="#686868"
+            android:background="@drawable/radio_button_summer_selector"
+            android:button="@android:color/transparent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Один"
+            android:gravity="center"
+            android:onClick="onRadioButtonClicked"
+            />
+
+        <RadioButton
+            android:id="@+id/rbTwo"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/radio_button_spring_selector"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:onClick="onRadioButtonClicked"
+            android:text="Два"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#686868" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/txtColor"
+        android:background="@drawable/bordertopbottom"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:textColor="#000000"
+        android:layout_below="@+id/RadBtnSnakes"
+        android:text="Цвет:"
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+    <TextView
+        android:id="@+id/txtOfColorCode"
+        android:background="@drawable/bordertopbottom"
+        android:layout_width="85dp"
+        android:layout_height="40dp"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:textColor="#000000"
+        android:layout_below="@+id/RadBtnSnakes"
+        android:layout_toRightOf="@+id/txtColor"
+        android:text="#FFFF00"
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+    <RelativeLayout
+        android:id="@+id/txtOfColorView"
+        android:background="@drawable/bordertopbottom"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:textColor="#000000"
+        android:layout_below="@+id/RadBtnSnakes"
+        android:layout_toRightOf="@+id/txtOfColorCode"
+        android:textAppearance="?android:attr/textAppearanceSmall">
+        <LinearLayout
+            android:id="@+id/coloredSquare"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000"
+            android:padding="2dp"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/txtEmpty"
+        android:background="@drawable/bordertopbottom"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:textColor="#000000"
+        android:layout_below="@+id/RadBtnSnakes"
+        android:layout_toRightOf="@+id/txtOfColorView"
+
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+
+
+    <SeekBar
+        android:id="@+id/seekBarPalette"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:max="1530"
+        android:padding="10dp"
+        android:progress="0"
+        android:progressDrawable="@drawable/seekbarpalette"
+        android:thumb="@drawable/vertline"
+        android:layout_below="@+id/txtColor"
+        android:maxHeight="4dp" />
+
+
+
+    <TextView
+        android:id="@+id/txtBrightness"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seekBarPalette"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/bordertopbottom"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:text="Яркость:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#000000" />
+
+
+
+    <TextView
+        android:id="@+id/textPerBrightness"
+        android:background="@drawable/bordertopbottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:paddingLeft="5dp"
+        android:textColor="#000000"
+        android:layout_below="@+id/seekBarPalette"
+        android:layout_toRightOf="@+id/txtBrightness"
+        android:text="50%"
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+    <SeekBar
+        android:id="@+id/seekBarBrightness"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:max="128"
+        android:padding="10dp"
+        android:progress="64"
+        android:progressDrawable="@drawable/seekbarprogress"
+        android:thumb="@drawable/vertline"
+        android:layout_below="@+id/txtBrightness"
+        android:maxHeight="4dp" />
+
+</RelativeLayout>
